@@ -1,5 +1,4 @@
-flask
-requests_oauthlib
-dotenv
-os
-json
+Flask
+gunicorn
+requests
+python-dotenv
