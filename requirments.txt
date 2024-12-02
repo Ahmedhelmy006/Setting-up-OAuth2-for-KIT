@@ -1,0 +1,5 @@
+flask
+requests_oauthlib
+dotenv
+os
+json
