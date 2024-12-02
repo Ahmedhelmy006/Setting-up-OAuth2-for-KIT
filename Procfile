@@ -1,1 +1,1 @@
-web: gunicorn purchase:app
+web: gunicorn Purchases:app
